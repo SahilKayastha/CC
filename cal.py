@@ -1,7 +1,7 @@
 print("This is python program")
 
-a = input("Enter first number: ")
-b = input("Enter Second number: ")
+a = int(input("Enter first number: "))
+b = int(input("Enter Second number: "))
 c = input("Enter Operation")
 
 if(c=='+'):
